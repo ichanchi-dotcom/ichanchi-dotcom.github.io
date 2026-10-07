@@ -16,4 +16,5 @@ arc(300,350,120,40,0,PI);// Funciona com l'el·lipse els primers quatre números
   noFill();
   //stroke(0)
   arc(350,235,60,20,PI,0);//
+  line(220,230,265,220);
 }
